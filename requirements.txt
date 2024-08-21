@@ -1,0 +1,11 @@
+fastapi
+fastapi-limiter
+uvicorn[standard]
+requests
+pydantic
+pydantic_extra_types
+python-dotenv
+firebase_admin
+openai
+python-multipart
+pytest
