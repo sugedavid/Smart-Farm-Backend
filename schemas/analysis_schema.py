@@ -3,7 +3,6 @@ from typing import Dict, List, Optional, Union
 from pydantic import BaseModel
 from pydantic_extra_types.isbn import *
 
-
 class AnalysisRequest(BaseModel):
     assistant_id: str
     thread_id: str
